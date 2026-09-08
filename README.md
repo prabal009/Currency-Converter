@@ -89,13 +89,11 @@ currency-converter/
 
 ##  Future Improvements
 
-- [ ] Add a swap/reverse button to quickly switch "From" and "To" currencies.
-- [ ] Add loading skeletons/spinners while fetching rates.
-- [ ] Implement historical exchange rate charts.
-- [ ] Add dark mode support.
+-  Add a swap/reverse button to quickly switch "From" and "To" currencies.
+-  Add loading skeletons/spinners while fetching rates.
+-  Implement historical exchange rate charts.
+-  Add dark mode support.
 
 ---
 
-##  Author
 
-- **Prabal** - [@prabal009](https://github.com/prabal009)

@@ -4,7 +4,7 @@ A clean, responsive, and interactive Currency Converter web application built wi
 
 ---
 
-## 📌 Note from the Developer
+##  Note from the Developer
 
 > **Full Disclosure:**  
 > I know this project is really basic and a classic beginner project. However, building this from scratch was an intentional and crucial milestone in my frontend development journey. It helped me bridge the gap between theoretical JavaScript concepts and building a functional, real-world application that talks to external services.
